@@ -57,7 +57,7 @@
         android:layout_height="wrap_content"
         android:hint="Email"
         android:inputType="textEmailAddress"
-        android:layout_above="@+id/password"
+        android:layout_above="@+id/login_password_editText"
         android:layout_centerHorizontal="true"/>
 
     <!-- ProgressBar -->
