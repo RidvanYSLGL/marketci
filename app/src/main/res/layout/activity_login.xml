@@ -50,7 +50,7 @@
         android:layout_alignParentBottom="true"
         android:layout_centerHorizontal="true" />
 
-    <!-- EditText To Type The Email-->
+    <!-- EditText ToType The Email-->
     <EditText
         android:id="@+id/login_email_editText"
         android:layout_width="match_parent"
